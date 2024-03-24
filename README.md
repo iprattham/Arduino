@@ -172,7 +172,7 @@ turn and then moves forward with the same loop.
         <p>"CYBER GEEKS" at TECHNO SAPIENS</p>
     </div>
     <div style="float: right; width: 45%;">
-        <img src="champions.jpeg" alt="Image 2" style="width: 100%;">
+        <img src="Project Exhibition copy.png" alt="Image 2" style="width: 100%;">
         <p>Getting 1st Position in Project Exhibition & Demonsteration Competition.</p>
     </div>
 </div>
